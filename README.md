@@ -1,11 +1,11 @@
 # Uas-bst-psda
 Dibuat dalam Bahasa Indonesia untuk memudahkan membaca.
 
-## Marimas lihat lebih dekat ke layar anda daripada melihat sesatu yang tidak bisa anda dapatkan!
+## Mari lihat lebih dekat untuk mengetahui lebih lanjut
 
 ### Yang pasti dibutuhkan!
-Untuk Menjalankan File ini, anda hanya perlu mengunduh file "UAS_BST.exe" saja.
-Jika Ingin Mengedit code yang ada, gunakan program-program dibawah ini teman!
+Untuk Menjalankan File ini, anda hanya perlu mengunduh file "UAS_BST_1910512032.exe" saja.
+Jika Ingin Mengedit code yang ada, gunakan program-program dibawah ini :
 ```
 - DEV C++
 - Sublime Text 3
@@ -14,7 +14,7 @@ Jika Ingin Mengedit code yang ada, gunakan program-program dibawah ini teman!
 
 ## Menjalankan tests
 
-Untuk menjalankan programanya hanya perlu mengunduh UAS_BST.exe yang ada
+Untuk menjalankan programanya hanya perlu mengunduh UAS_BST_1910512032.exe yang ada
 ```
 Disclaimer, karena extensionnya adalah .exe maka pengguna IOS selain OS dapat membukanya
 dengan membukanya lewat IDE yang dipunya, dan dijalankan secara manual terlebih dahulu
@@ -22,7 +22,7 @@ dengan membukanya lewat IDE yang dipunya, dan dijalankan secara manual terlebih 
 
 ### Hasil Test dan fitur dari program ini
 
-Program ini saya namai Kono Dicky no BST DA!, seperti namanya
+Program ini saya namakan BST Program, seperti namanya
 program ini akan membantu anda dalam:
 
 ```
@@ -123,7 +123,7 @@ void preOrder(Node *root)
 
 *Disclaimer
 ```
-Akan ada error jika dibuka dengan IDE yang berbeda seperti ROAD ROLLER!!
+Akan ada error jika dibuka dengan IDE yang berbeda
 ```
 
 ## Dibuat Menggunakan
@@ -136,7 +136,7 @@ Akan ada error jika dibuka dengan IDE yang berbeda seperti ROAD ROLLER!!
 * **Dicky Darmawan - (1910512032)** 
 
 ## Lisensi
-Projek ini sifatnya open source yang berarti kawand2 bisa menjadi KONO DIO DAAA!!! Dengan mudah.
+Projek ini bersifat open source yang berarti anda bisa mengubah kodenya sesuka anda
 
 ## Terima Kasih Kepada
-* Inspiration (Bapak DR. Achmad Solichin)
+Bapak DR. Achmad Solichin.
