@@ -134,6 +134,8 @@ Akan ada error jika dibuka dengan IDE yang berbeda
 
 ## Authors
 * **Dicky Darmawan - (1910512032)** 
+## Email
+dickydarmawan790@gmail.com
 
 ## Lisensi
 Projek ini bersifat open source yang berarti anda bisa mengubah kodenya sesuka anda
